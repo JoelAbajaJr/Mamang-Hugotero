@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+	<title>Sign In Page</title>
+
+	<head>
+		<style>
+			
+			h3{
+			font-family: Mistral;
+			font-size: 50px;
+			color: black;
+			position: fixed;
+			margin-left: 475px;
+			margin-top: 25px;
+
+				}
+			h1{
+			font-family: Impact;
+			font-size: 75px;
+			text-border: 1px;
+			color: white;
+			position: fixed;
+			margin-top: 55px;
+			margin-left: 450px;
+				}
+		
+			h2{ 
+			color: white;
+			position:fixed;
+			margin-left: 525px;
+			margin-top: 130px;
+				}
+
+			h5{
+			text-align: center;
+			color: black;
+			font-size: 25px;
+				}
+			
+
+			h4{
+			margin-left: 500px;
+			color: white;
+			
+				}
+
+		</style>
+	</head>
+		
+	<body background="CHIE.jpeg">
+		<h3 align="center">Welcome to my Website!</h3>
+		<h1>PHOTOGRAPHY</h1>
+
+		<h2>CREATE YOUR ACCOUNT</h2>
+
+			<br><br><br><br><br><br><br><br><br>
+		<h4><input type="text" placeholder="First Name" style="width: 350px; height: 30px"/>
+			<br>
+		 <input type="text" placeholder="Middle Name" style="width: 350px; height: 30px"/>
+			<br>
+		 <input type="text" placeholder="Last Name" style="width: 350px; height: 30px"/>
+		
+			<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			BIRTHDATE
+			<br>
+		<input type="text" placeholder="Age" style="width: 50px; height: 30px"/>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input type= "scroll" placeholder="Month" style="width: 90px; height:30px"/>
+			&nbsp;&nbsp;&nbsp;
+		<input type= "text" placeholder="Day" style="width: 50px; height:30px"/>
+			&nbsp;&nbsp;
+		<input type= "text" placeholder="Year" style="width: 50px; height:30px"/>
+			<br><br><br>
+		<input type="text" placeholder="User Name" style="width: 350px; height: 30px"/>
+			<br>
+		<input type="text" placeholder="Email" style="width: 350px; height: 30px"/>
+			<br>
+		<input type="password" placeholder="Password" style="width: 350px; height: 30px"/></h4>
+		
+		<h5>
+		
+			
+&nbsp;&nbsp;&nbsp;&nbsp;
+		<button style="width:80px;	height:30px; color:Gray;">			
+			<a href="Account Page.html">CREATE</a>
+			</button>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<button style="width:60px;	height:30px;">
+			<a href="Home.html">BACK</a>
+			</button>
+&nbsp;&nbsp;&nbsp;&nbsp;
+			
+		</h5>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
