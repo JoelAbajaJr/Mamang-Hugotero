@@ -1,0 +1,19 @@
+<?php
+
+$username= filter_input(INPUT_POST, 'User Name');
+$password= filter_input(INPUT_POST, 'Password');
+	if (!empty ($username)){
+
+	if(!empty ($password))
+}
+
+	else{
+	echo "Password should not be empty";
+	die();
+}
+	else{
+	echo "User Name should not be empty";
+	die();
+}
+
+>
